@@ -2,5 +2,7 @@
   "editor.fontFamily": "'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace",
   "editor.fontLigatures": true,
   "terminal.integrated.fontFamily": "'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace",
-  "terminal.integrated.fontLigatures.enabled": true
+  "terminal.integrated.fontLigatures.enabled": true,
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "material-icon-theme"
 }
